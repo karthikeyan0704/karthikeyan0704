@@ -45,6 +45,45 @@ Here are a few technologies I've been working with recently:
 
 ### 🛠️ My Best Projects
 
-- **[Project 1 Name]**: A brief description of your project. (e.g., A full-stack Complaint Management System with admin/user roles).
-- **[Project 2 Name]**: A brief description of your project. (e.g., A data analysis of... using Python and Matplotlib).
-- **[Project 3 Name]**: A brief description of your project. (e.g., My personal portfolio website).
+Here are a few projects I'm proud of.
+
+---
+
+**1. MERN Music App**
+> A full-stack music streaming application built with the MERN stack, allowing users to browse, play, and manage playlists.
+>
+> **Tech Stack:**
+> <br>
+> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+>
+> **[View Code](https://github.com/karthikeyan0704/YOUR-MUSIC-APP-REPO-NAME)**
+
+---
+
+**2. MERN E-Commerce Platform**
+> A complete e-commerce website featuring product listings, a shopping cart, user authentication (JWT), and an admin panel for managing inventory.
+>
+> **Tech Stack:**
+> <br>
+> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+>
+> **[View Code](https://github.com/karthikeyan0704/YOUR-ECOMMERCE-REPO-NAME)**
+
+---
+
+**3. Complaint Management System (Mobile)**
+> A React Native mobile app for submitting and tracking complaints. Features role-based access for users, staff, and a super admin dashboard.
+>
+> **Tech Stack:**
+> <br>
+> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+>
+> **[View Code](https://github.com/karthikeyan0704/YOUR-COMPLAINT-APP-REPO-NAME)**
